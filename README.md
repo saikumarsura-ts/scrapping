@@ -1,7 +1,7 @@
 Scrapping Using Python
 ========================================
 
-This project have sevral code fpr scape the price .
+This project have sevral code for scrap the price .
 
 
 
@@ -11,12 +11,10 @@ Requirements
 
 Installation
 ------------
-.. code-block::
-
-  pip install -r requirement.txt
+pip install -r requirement.txt
 
 Features
 --------
-* Scrape the website and give flight price for perticular date and destination.
+* Scrap the website and give flight price for perticular date and destination.
 
 
